@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "simple" : "nodemon 1-server-simple.js",
-    "inspect": "nodemon 2-server-inspect.js",
-    "perf"   : "nodemon 3-server-perf.js",
-    "router": "nodemon 4-server-router.js"
+    "simple"  : "nodemon 1-server-simple.js",
+    "inspect" : "nodemon 2-server-inspect.js",
+    "perf"    : "nodemon 3-server-perf.js",
+    "router"  : "nodemon 4-server-router.js",
+    "counter" : "nodemon 5-server-router.js"
   },
   "keywords": [],
   "author": "Ajar <yariv.gilad@gmail.com> (https://timetocode.io)",
